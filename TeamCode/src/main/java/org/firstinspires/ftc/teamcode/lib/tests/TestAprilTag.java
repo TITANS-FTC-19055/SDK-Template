@@ -12,7 +12,7 @@ import org.openftc.easyopencv.OpenCvCameraRotation;
 import org.openftc.easyopencv.OpenCvWebcam;
 
 @Disabled
-@TeleOp
+@TeleOp(name = "TestAprilTag", group = "Test")
 public class TestAprilTag extends LinearOpMode {
     OpenCvWebcam webcam;
     AprilTagSmartDetection pipeline = new AprilTagSmartDetection();
