@@ -1,7 +1,7 @@
 ## 📢 NOTICE
 Acest repository conține un FTC SDK Template pentru sezonul BIOBUZZ (2026-2027) modularizat, optimizat și preconfigurat cu librării utile.
 ## 📦 CONȚINUT
-Template-ul vine preconfigurat cu Pedro Pathing, FTCLib, FTC Dashboard și librăria internă a echipei TITANS 19055.
+Template-ul vine preconfigurat cu Pedro Pathing, FTCLib, Panels și librăria internă a echipei TITANS 19055.
 ## 🛠️ CERINȚE
 Pentru acest proiect aveți nevoie de Android Studio Narwhal 3 Feature Drop sau mai nou.
 
